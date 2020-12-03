@@ -1,7 +1,7 @@
-Origin: NetTweaks+
-Label: NetTweaks+
+Origin: Teggers Repo
+Label: Teggers Repo
 Suite: stable
 Version: 1.1
 Architecture: iphoneos-arm
 Components: main
-Description: NetTweaks+ is a stable repo to contain some cool network tweaks.
+Description: Teggers Repo
